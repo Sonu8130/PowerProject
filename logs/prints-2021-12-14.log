@@ -1,0 +1,6 @@
+15:35:08.526 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x8cdca51b3bc825cc
+15:35:08.675 [main] INFO  easy.ValidateTitle - Browser INITIALZED
+15:36:06.268 [main] INFO  easy.ValidateNavigationBar - Browser INITIALZED
+15:37:21.310 [main] INFO  easy.ValidateNavigationBar - Navigated to QA click Academy
+15:37:21.832 [main] INFO  easy.ValidateNavigationBar - Maximized page
+15:37:21.833 [main] INFO  easy.ValidateNavigationBar - Landing page object created
